@@ -18,7 +18,6 @@ public class Prjava01 {
             bw.write("      </title>"); bw.newLine();
             bw.write("  </head>"); bw.newLine();
             bw.write("  <body>"); bw.newLine();
-            bw.write(" <h1>DAM2 m05uf2pr4<h1>");bw.newLine();
             bw.write("    Nova pàgina web"); bw.newLine();
             bw.write("  </body>"); bw.newLine();
             bw.write("</html>"); bw.newLine();
@@ -26,7 +25,5 @@ public class Prjava01 {
             System.out.println("aaaa");
         }
     }
-
+    
 }
-
-
