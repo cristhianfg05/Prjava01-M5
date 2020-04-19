@@ -1,0 +1,16 @@
+# https://git-scm.com/docs/gitignore
+# https://help.github.com/articles/ignoring-files
+# Example .gitignore files: https://github.com/github/gitignore
+/bower_components/
+/node_modules/
+/NetBeansProjects/Act6_M6/nbproject/private/
+/NetBeansProjects/Act6_M6/build/
+/NetBeansProjects/TestRectangle joaquinRepaso/nbproject/private/
+/NetBeansProjects/TestRectangle joaquinRepaso/build/
+/NetBeansProjects/TestMultimedia joaquinRepaso/nbproject/private/
+/NetBeansProjects/TestMultimedia joaquinRepaso/build/
+/NetBeansProjects/TestEmpleadojoaquinRepaso/nbproject/private/
+/NetBeansProjects/m5 act 2/nbproject/private/
+/NetBeansProjects/m5 act 2/build/
+/NetBeansProjects/prjava01/nbproject/private/
+/NetBeansProjects/prjava01/build/
